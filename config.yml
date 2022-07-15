@@ -1,10 +1,15 @@
 urls:
   dl: https://github.com/HyperDbg/HyperDbg/releases
+  download: https://github.com/HyperDbg/HyperDbg/releases
   start: https://docs.hyperdbg.org/getting-started/build-and-install
   attach: https://docs.hyperdbg.org/getting-started/attach-to-hyperdbg
   faq: https://docs.hyperdbg.org/getting-started/faq
   docs: https://docs.hyperdbg.org
+  doxygen: https://doxygen.hyperdbg.org
   todo: https://github.com/HyperDbg/HyperDbg/blob/master/CONTRIBUTING.md#things-to-work-on
   style: https://docs.hyperdbg.org/contribution/style-guide
   src: https://github.com/HyperDbg/HyperDbg
   source: https://github.com/HyperDbg/HyperDbg
+  research: https://research.hyperdbg.org
+  map: https://hyperdbg.github.io/commands-map
+  cite: https://github.com/HyperDbg/HyperDbg#publications
