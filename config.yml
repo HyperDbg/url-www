@@ -18,7 +18,7 @@ urls:
   ost2/process-b: https://gitlab.com/opensecuritytraining/dbg3001_hyperdbg_slides_and_files/-/tree/main/Part%2008%20-%20Advanced%20Debugging%20(IDT%20&%20Instruction-level%20Hooking)/Files/Process%20B?ref_type=heads
   ost2/cpuid_test: https://gitlab.com/opensecuritytraining/dbg3001_hyperdbg_slides_and_files/-/tree/main/Part%2008%20-%20Advanced%20Debugging%20(IDT%20&%20Instruction-level%20Hooking)/Files/cpuid_test?ref_type=heads
   ost2/cpuid_ds: https://gitlab.com/opensecuritytraining/dbg3001_hyperdbg_slides_and_files/-/tree/main/Part%2008%20-%20Advanced%20Debugging%20(IDT%20&%20Instruction-level%20Hooking)/Files/scripts?ref_type=heads
-  ost2/part8-files: https://gitlab.com/opensecuritytraining/dbg3001_hyperdbg_slides_and_files/-/tree/main/Part%2008%20-%20Advanced%20Debugging%20(IDT%20&%20Instruction-level%20Hooking)/Files?ref_type=heads
+  ost2/part-8-files: https://gitlab.com/opensecuritytraining/dbg3001_hyperdbg_slides_and_files/-/tree/main/Part%2008%20-%20Advanced%20Debugging%20(IDT%20&%20Instruction-level%20Hooking)/Files?ref_type=heads
   ost2/msr-list: https://gitlab.com/opensecuritytraining/dbg3001_hyperdbg_slides_and_files/-/blob/main/Part%2008%20-%20Advanced%20Debugging%20(IDT%20&%20Instruction-level%20Hooking)/Files/MSR-list.txt?ref_type=heads
   ost2/system-call-test: https://gitlab.com/opensecuritytraining/dbg3001_hyperdbg_slides_and_files/-/tree/main/Part%2006%20-%20Advanced%20Debugging%20(System-calls)/Files/system-call-test?ref_type=heads
   ost2/part-6-scripts: https://gitlab.com/opensecuritytraining/dbg3001_hyperdbg_slides_and_files/-/tree/main/Part%2006%20-%20Advanced%20Debugging%20(System-calls)/Files/scripts?ref_type=heads
