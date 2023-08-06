@@ -14,3 +14,4 @@ urls:
   map: https://hyperdbg.github.io/commands-map
   cite: https://github.com/HyperDbg/HyperDbg#publications
   contribute: https://github.com/HyperDbg/HyperDbg/blob/master/CONTRIBUTING.md
+  ost2/process-a: https://gitlab.com/opensecuritytraining/dbg3001_hyperdbg_slides_and_files/-/tree/main/Part%2008%20-%20Advanced%20Debugging%20(IDT%20&%20Instruction-level%20Hooking)/Files/Process%20A?ref_type=heads
