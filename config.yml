@@ -34,3 +34,4 @@ urls:
   ost2/part-5-hello-world: https://gitlab.com/opensecuritytraining/dbg3301_hyperdbg_slides_and_files/-/tree/main/Part%2005%20-%20Advanced%20Debugging%20(EPT)/Files/hello_world?ref_type=heads
   ost2/part-3-simple-send: https://gitlab.com/opensecuritytraining/dbg3301_hyperdbg_slides_and_files/-/tree/main/Part%2003%20-%20User%20Mode%20&%20Kernel%20Mode%20Debugging/Files/simple_send?ref_type=heads
   ost2/part-6-files: https://gitlab.com/opensecuritytraining/dbg3301_hyperdbg_slides_and_files/-/tree/main/Part%2006%20-%20Advanced%20Debugging%20(System-calls)/Files?ref_type=heads
+  hwdbg-repo: https://github.com/HyperDbg/HyperDbg/tree/master/hwdbg
