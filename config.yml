@@ -36,3 +36,4 @@ urls:
   ost2/part-6-files: https://gitlab.com/opensecuritytraining/dbg3301_hyperdbg_slides_and_files/-/tree/main/Part%2006%20-%20Advanced%20Debugging%20(System-calls)/Files?ref_type=heads
   hwdbg-repo: https://github.com/HyperDbg/HyperDbg/tree/master/hwdbg
   hyperevade: https://github.com/HyperDbg/HyperDbg/tree/dev/hyperdbg/hyperevade
+  hyperevade-abstract: https://vusec.net # TODO: replace later
